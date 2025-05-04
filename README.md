@@ -88,6 +88,5 @@ face-recognition-project/
 This project is licensed under the MIT License. See the  [LICENSE](LICENSE) file for more details.
 
 ## 👤 Author
-
-| MEJRI Salam  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salam-mejri/)  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/mslouma88)  |
+| 🔹 MEJRI Salam  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salam-mejri/)  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/mslouma88)  |
 |:-------------------------------------------------------------:|:-------------------------------------------------------------:|
