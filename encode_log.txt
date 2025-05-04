@@ -1,0 +1,12 @@
+2025-04-30 02:01:59,686 - Encodé : bill_Gates.jpg
+2025-04-30 02:02:00,535 - Encodé : Elon.jpg
+2025-04-30 02:02:01,233 - Encodé : Khabib.jpg
+2025-04-30 02:02:11,913 - Encodé : Salam.jpg
+2025-04-30 13:20:03,307 - Encodé : bill_Gates.jpg
+2025-04-30 13:20:03,871 - Encodé : Elon.jpg
+2025-04-30 13:20:04,411 - Encodé : Khabib.jpg
+2025-04-30 13:20:11,832 - Encodé : Salam.jpg
+2025-05-04 16:15:44,690 - Encodé : bill_Gates.jpg
+2025-05-04 16:15:45,336 - Encodé : Elon.jpg
+2025-05-04 16:15:45,881 - Encodé : Khabib.jpg
+2025-05-04 16:15:53,411 - Encodé : Salam.jpg
